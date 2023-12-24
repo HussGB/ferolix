@@ -1,0 +1,23 @@
+{
+    "token": "NzU3MzM4MTMyMzI3OTU2NDkx.X2e8GQ.hZbRhr2odKt-vqloytuqPbGQDD0",
+    "version": "4.0",
+    "categories": {
+        "enabled": true,
+        "ids": {
+            "awaiting": "714475912132821013",
+            "responded": "714475913470935141",
+            "premium":   "714475912812560465",
+            "rewards":   "739810689442643979"
+        }
+    },
+    "roles": {
+        "support": "Support Team",
+        "donator": "Donator",
+        "booster": "Server Booster"
+    },
+    "tagOnNewMessage": true,
+    "logging": {
+        "onTicketClose": true,
+        "channel": "717164675875471392"
+    }
+}
