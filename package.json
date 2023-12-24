@@ -1,0 +1,63 @@
+{
+  "name": "fleco-adaptable-beta-ticket",
+  "version": "0.1.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "particlesjs": "^2.2.3",
+    "passport": "^0.4.1",
+    "connect-flash": "^0.1.1",
+    "express-session": "^1.17.1",
+    "express-handlebars": "^4.0.3",
+    "bcryptjs": "^2.4.3",
+    "express-ejs-layouts": "^2.5.0",
+    "discord.js": "^12.3.1",
+    "passport-local": "^1.0.0",
+    "ejs": "^3.0.2",
+    "assert": "^2.0.0",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.1",
+    "date-and-time": "^0.12.0",
+    "os": "^0.1.1",
+    "cpu-stat": "^2.0.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.2.2",
+    "randomstring": "^1.1.5",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.0.0",
+    "hastebin-gen": "^2.0.5",
+    "hastebin": "^0.2.1",
+    "better-sqlite3": "^7.0.1",
+    "sqlite": "^4.0.9",
+    "node-gyp": "^6.1.0",
+    "libxmljs": "^0.19.7",
+    "lowdb": "^1.0.0",
+    "jsdom": "^16.2.2",
+    "nodemailer": "^6.4.10",
+    "request": "^2.88.2",
+    "node-fetch": "^2.6.1",
+    "cleverbot-free": "^1.0.4",
+    "jumble-words": "^1.0.0",
+    "opusscript": "^0.0.7",
+    "@discordjs/opus": "^0.3.2",
+    "node-opus": "^0.3.3",
+    "ytdl-core": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "fleco-beta",
+    "express"
+  ]
+}
